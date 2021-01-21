@@ -1,5 +1,4 @@
-# IFT 2125  Devoir 4 question_2
-# Yifu Zhou 20092235
+# Yifu Zhou 
 # Tester si deux graphes sont isomorphismes ( représentée par la matrice adjacence)
 
 #Test1 same graph
